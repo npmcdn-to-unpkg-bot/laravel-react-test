@@ -5,9 +5,7 @@ namespace App\Http\Controllers\Api;
 use App\Article;
 
 use App\Http\Controllers\Controller;
-use App\Http\Requests\ApiRequest;
 use App\Http\Requests\ArticlePostRequest;
-use App\Http\Requests\ArticleGetRequest;
 
 use Illuminate\Http\JsonResponse;
 
